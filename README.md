@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Flutter, Dart, Javascript**
+- 💬 Ask me about **Flutter, Dart, Python**
 
 - 📫 How to reach me **evangelospasiakos@gmail.com**
 
